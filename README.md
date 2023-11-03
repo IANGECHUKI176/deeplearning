@@ -1,2 +1,2 @@
 # deeplearning
-This repo contains everything about deeplearning
+This repo contains stuff about deeplearning
